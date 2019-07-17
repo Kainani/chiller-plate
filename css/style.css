@@ -6,6 +6,14 @@
  * Made By MaterializeCSS.com
  */
 
+body {
+  font-family: 'Comfortaa', cursive;
+}
+
+.lama-green {
+  color: #43a22c;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -62,4 +70,17 @@ footer.page-footer {
 
 .card {
   min-height: 342px;
+}
+
+/* Banner Icons first row */
+
+.banner-icons {
+  margin: 20px;
+}
+
+/* 
+  Icons for the cards under "Our Features"
+*/
+.card-icons {
+  padding: 20px;
 }
